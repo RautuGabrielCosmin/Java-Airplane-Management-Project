@@ -37,8 +37,8 @@ public class MemoryTravelAgency implements TravelAgencyRepository {
                     logger.info("Prepared Statement Closed");
                 }catch(SQLException e){
                     logger.debug(e.getMessage());
-                e.printStackTrace();}
-                }
+                    e.printStackTrace();}
+            }
             if(conn != null){
                 try{
                     conn.close();

@@ -1,6 +1,6 @@
 package repository;
 
-import desktop_app.user.User;
+import domain.User;
 
 public interface UserRepository extends InterfaceRepository<Integer, User> {
 }

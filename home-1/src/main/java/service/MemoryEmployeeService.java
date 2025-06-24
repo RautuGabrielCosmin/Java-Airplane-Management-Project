@@ -74,7 +74,19 @@ public class MemoryEmployeeService implements EmployeeService {
             logger.warn("No employee found for deletion with id={}", id);
         } else {
             logger.info("Employee deleted successfully: {}", deleted);
+            employeeRepository.delete(id);
         }
         return deleted;
+    }
+
+    public int getNextEmployeeId() {
+        List<Employee> all = findAll();
+        int maxId = 0;
+        for (Employee e : all) {
+            if (e.getIdEmployee() > maxId) {
+                maxId = e.getIdEmployee();
+            }
+        }
+        return maxId + 1;
     }
 }

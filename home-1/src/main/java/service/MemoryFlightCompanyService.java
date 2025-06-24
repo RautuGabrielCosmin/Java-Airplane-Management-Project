@@ -73,6 +73,7 @@ public class MemoryFlightCompanyService implements FlightCompanyService {
             logger.error("Flight company with id {} not found", id);
         }else{
             logger.info("Deleted flight company with id {}", id);
+            flightCompanyRepository.delete(id);
         }
         return existing;
     }

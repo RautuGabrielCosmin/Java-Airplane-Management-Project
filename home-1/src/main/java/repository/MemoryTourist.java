@@ -60,10 +60,11 @@ public class MemoryTourist implements TouristRepository {
             con = new ConnectDB().getConnection();
             String sql = "SELECT * FROM tourist WHERE id = ?";
             ps = con.prepareStatement(sql);
+            ps.setInt(1, id);
             rs = ps.executeQuery();
             if(rs.next()){
                 tourist = new Tourist();
-                tourist.setIdTourist(rs.getInt("idTourist"));
+                tourist.setIdTourist(rs.getInt("id"));
                 tourist.setName(rs.getString("name"));
                 logger.info("Found tourist with the id {} and name {}", id, tourist.getName());
             }
@@ -114,10 +115,10 @@ public class MemoryTourist implements TouristRepository {
             rs = ps.executeQuery();
             while(rs.next()){
                 Tourist tourist = new Tourist();
-                tourist.setIdTourist(rs.getInt("idTourist"));
+                tourist.setIdTourist(rs.getInt("id"));
                 tourist.setName(rs.getString("name"));
                 listOfTourists.add(tourist);
-                logger.info("All the tourists found with id {} and name {}", rs.getInt("idTourist"), rs.getString("name"));
+                logger.info("All the tourists found with id {} and name {}", rs.getInt("id"), rs.getString("name"));
             }
         }catch (SQLException e){
             logger.debug(e.getMessage());

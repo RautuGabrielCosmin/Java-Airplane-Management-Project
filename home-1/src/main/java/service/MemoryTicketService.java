@@ -37,10 +37,62 @@ public class MemoryTicketService implements TicketService {
             logger.error("Ticket with id {} already exists", ticket.getId());
             throw new RuntimeException("Ticket with id {} already exists");
         }
-        Ticket ticket = new Ticket(id,flightId,touristId,employeeId,seatType,seatNumber,customerName);
+        ticket = new Ticket(id,flightId,touristId,employeeId,seatType,seatNumber,customerName);
         Ticket savedTicket = ticketRepository.save(ticket);
         logger.info("Ticket created successfully");
         return savedTicket;
+    }
+
+    @Override
+    public Ticket findById(int id){
+        logger.info("Finding ticket with id {}", id);
+        Ticket ticket = ticketRepository.findById(id);
+        if(ticket == null) {
+            logger.error("Ticket with id {} not found", id);
+        }
+        else{
+            logger.info("Ticket with id {} found", id);
+        }
+        return ticket;
+    }
+
+    @Override
+    public List<Ticket> findAllTickets(){
+        logger.info("Finding all tickets");
+        return ticketRepository.findAll();
+    }
+
+    @Override
+    public Ticket updateTicket(int id, int newFlightId, String newSeatType,
+                               String newSeatNumber, String newCustomerName){
+        logger.info("Updating ticket with id {}", id);
+        Ticket ticket = ticketRepository.findById(id);
+        if(ticket == null) {
+            logger.error("Ticket with id {} not found", id);
+            return null;
+        }
+        ticket.setFlightId(newFlightId);
+        ticket.setSeatType(newSeatType);
+        ticket.setSeatNumber(newSeatNumber);
+        ticket.setCustomerName(newCustomerName);
+        Ticket updatedTicket = ticketRepository.save(ticket);
+        return updatedTicket;
+
+    }
+
+    @Override
+    public Ticket deleteTicket(int id){
+        logger.info("Deleting ticket with id {}", id);
+        Ticket deleted = ticketRepository.findById(id);
+        if(deleted == null){
+            logger.error("Ticket with id {} not found", id);
+            return null;
+        }
+        else{
+            logger.info("Ticket with id {} found", deleted);
+            ticketRepository.delete(id);
+        }
+        return deleted;
     }
 
 }

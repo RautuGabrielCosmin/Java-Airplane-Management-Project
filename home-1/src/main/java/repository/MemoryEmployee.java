@@ -64,8 +64,8 @@ public class MemoryEmployee implements EmployeeRepository {
             conn = new ConnectDB().getConnection();
             String sql = "SELECT * FROM employee WHERE id = ?";
             ps = conn.prepareStatement(sql);
-            rs = ps.executeQuery();
             ps.setInt(1, id);
+            rs = ps.executeQuery();
             if(rs.next()){
                 employee = new Employee();
                 employee.setIdEmployee(rs.getInt("id"));

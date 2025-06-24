@@ -1,0 +1,1634 @@
+2025-04-21 18:42:58,189 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 18:42:58,287 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 18:42:58,303 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 18:42:58,317 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 18:42:58,319 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 18:42:58,319 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 18:42:58,319 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 18:42:58,319 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:00,258 INFO s.MemoryEmployeeService [AWT-EventQueue-0] Service: Retrieving all employees
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Find all employees
+2025-04-21 18:43:00,258 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 4
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 5
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 6
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 7
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 9
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 10
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 11
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 12
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 13
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 14
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 15
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 16
+2025-04-21 18:43:00,258 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 100
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1002
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1003
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing prepared statement
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing prepared statement
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing connection to database
+2025-04-21 18:43:00,267 INFO r.MemoryEmployee [AWT-EventQueue-0] Find all employees successfully
+2025-04-21 18:43:01,086 INFO s.MemoryFlightService [AWT-EventQueue-0] Finding all flights
+2025-04-21 18:43:01,086 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 100
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 101
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 102
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 103
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 104
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 105
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 106
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 107
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 108
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 109
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 110
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 111
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 112
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 113
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 114
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 115
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 116
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 117
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 118
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 119
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 120
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 121
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 122
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 123
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 124
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 125
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 126
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 127
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 128
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 129
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 130
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 131
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 132
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 133
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 134
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 135
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 136
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 137
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 138
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 139
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 140
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 141
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 142
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 143
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 144
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 145
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 146
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 147
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 148
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 149
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 150
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 151
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 152
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 153
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 154
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 155
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 156
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 157
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 158
+2025-04-21 18:43:01,100 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 159
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 160
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 161
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 162
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 163
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 164
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 165
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 166
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 167
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 168
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 169
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 170
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 171
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 172
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 173
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 174
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 175
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 176
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 177
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 178
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 179
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 180
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 181
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 182
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 183
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 184
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 185
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 186
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 187
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 188
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 189
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 190
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 191
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 192
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 193
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 194
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 195
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 196
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 197
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 198
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 199
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 200
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 201
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 202
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 203
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 204
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 205
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 206
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 207
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 208
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 209
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 210
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 211
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 212
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 213
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 214
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 215
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 216
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 217
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 218
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 219
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 220
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 221
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 222
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 223
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 224
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 225
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 226
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 227
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 228
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 229
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 230
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 231
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 232
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 233
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 234
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 235
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 236
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 237
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 238
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 239
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 240
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 241
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 242
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 243
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 244
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 245
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 246
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 247
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 248
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 249
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] ResultSet closed
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:01,115 INFO r.MemoryFlight [AWT-EventQueue-0] Connection closed
+2025-04-21 18:43:01,799 INFO s.MemoryFlightCompanyService [AWT-EventQueue-0] Finding all flight companies
+2025-04-21 18:43:01,799 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 1 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 2 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 3 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 4 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 5 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 6 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 7 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 8 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 9 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 10 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 11 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 12 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 13 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 14 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 15 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 16 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 17 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 18 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 19 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 20 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 21 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 22 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 23 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 24 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 25 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 26 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 27 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 28 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 29 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 30 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 31 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 32 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 33 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 34 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 35 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 36 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 37 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 38 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 39 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 40 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 41 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 42 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 43 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 44 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 45 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 46 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 47 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 48 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 49 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 50 
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] ResultSet closed
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:01,815 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Closed connection
+2025-04-21 18:43:02,449 INFO s.MemoryTouristService [AWT-EventQueue-0] Finding all tourists
+2025-04-21 18:43:02,449 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:02,449 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 1 and name John Doe
+2025-04-21 18:43:02,449 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 2 and name Jane Doe
+2025-04-21 18:43:02,449 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 3 and name Michael Lee
+2025-04-21 18:43:02,449 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 4 and name Sarah Kim
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 5 and name David Park
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 6 and name Emily Chen
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 7 and name Robert Clark
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 8 and name Lisa Thompson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 9 and name James Brown
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 10 and name Elizabeth White
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 11 and name Steven Johnson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 12 and name Laura Davis
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 13 and name Kevin Garcia
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 14 and name Olivia Martinez
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 15 and name Daniel Wilson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 16 and name Emma Robinson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 17 and name Mark Lewis
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 18 and name Sophia Young
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 19 and name Ryan Walker
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 20 and name Chloe Baker
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 21 and name Grace Adams
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 22 and name Liam Reynolds
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 23 and name Mason Turner
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 24 and name Hailey Brooks
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 25 and name Zoe Martin
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 26 and name Alice Brown
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 27 and name Bob Smith
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 28 and name Charlie Johnson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 29 and name Diana Prince
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 30 and name Evan Davis
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 31 and name Fiona Green
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 32 and name George White
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 33 and name Hannah Black
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 34 and name Ian Gray
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 35 and name Julia Blue
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 36 and name Kevin King
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 37 and name Laura Queen
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 38 and name Martin Clark
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 39 and name Nina Adams
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 40 and name Oscar Lee
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 41 and name Paula Young
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 42 and name Quincy Allen
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 43 and name Rachel Walker
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 44 and name Steve Harris
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 45 and name Tracy Martin
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 46 and name Uma Nelson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 47 and name Victor Moore
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 48 and name Wendy Scott
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 49 and name Xander Bell
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 50 and name Yvonne Turner
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 51 and name Zachary Cooper
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 52 and name Aaron Price
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 53 and name Betty Foster
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 54 and name Caleb Simmons
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 55 and name Daisy Perry
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 56 and name Ethan Reed
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 57 and name Faith Bryant
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 58 and name Gavin Griffin
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 59 and name Hailey Burns
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 60 and name Isaac Murray
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 61 and name Jasmine Riley
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 62 and name Kyle Ramirez
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 63 and name Lily Edwards
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 64 and name Mason Peterson
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 65 and name Natalie Jenkins
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 66 and name Owen Ford
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 67 and name Peyton Ross
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 68 and name Quinn Morris
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 69 and name Ruby Price
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 70 and name Samuel Wood
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 71 and name Tina Coleman
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 72 and name Ulysses Scott
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 73 and name Violet Jenkins
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 74 and name William Ortiz
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 75 and name Xena Carter
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 76 and name Yusuf Brooks
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 77 and name Zoey Gray
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] Closed statement closed
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:02,464 INFO r.MemoryTourist [AWT-EventQueue-0] Closed connection
+2025-04-21 18:43:03,228 INFO s.MemoryTicketService [AWT-EventQueue-0] Finding all tickets
+2025-04-21 18:43:03,228 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:03,228 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1000 
+2025-04-21 18:43:03,228 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1001 
+2025-04-21 18:43:03,228 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1002 
+2025-04-21 18:43:03,228 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1003 
+2025-04-21 18:43:03,228 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1004 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1005 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1006 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1007 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1008 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1009 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1010 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1011 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1012 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1013 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1014 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1015 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1016 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1017 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1018 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1019 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1020 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1021 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1022 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1023 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1024 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1025 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1026 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1027 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1028 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1029 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1030 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1031 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1032 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1033 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1034 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1035 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1036 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1037 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1038 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1039 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1040 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1041 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1042 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1043 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1044 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1045 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1046 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1047 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1048 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1049 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1050 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 454163 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 768672 
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Result Set closed
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:03,244 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed
+2025-04-21 18:43:04,010 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 18:43:04,010 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 18:43:04,010 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 18:43:04,026 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:04,645 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 18:43:04,645 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 18:43:04,645 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 18:43:04,660 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 18:43:04,660 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 18:43:04,661 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 18:43:04,663 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:06,653 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 18:43:06,653 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 18:43:06,653 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:07,640 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 18:43:07,640 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 18:43:07,640 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:08,468 INFO s.MemoryTouristService [AWT-EventQueue-0] Finding all tourists
+2025-04-21 18:43:08,468 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 1 and name John Doe
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 2 and name Jane Doe
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 3 and name Michael Lee
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 4 and name Sarah Kim
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 5 and name David Park
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 6 and name Emily Chen
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 7 and name Robert Clark
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 8 and name Lisa Thompson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 9 and name James Brown
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 10 and name Elizabeth White
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 11 and name Steven Johnson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 12 and name Laura Davis
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 13 and name Kevin Garcia
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 14 and name Olivia Martinez
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 15 and name Daniel Wilson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 16 and name Emma Robinson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 17 and name Mark Lewis
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 18 and name Sophia Young
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 19 and name Ryan Walker
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 20 and name Chloe Baker
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 21 and name Grace Adams
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 22 and name Liam Reynolds
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 23 and name Mason Turner
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 24 and name Hailey Brooks
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 25 and name Zoe Martin
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 26 and name Alice Brown
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 27 and name Bob Smith
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 28 and name Charlie Johnson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 29 and name Diana Prince
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 30 and name Evan Davis
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 31 and name Fiona Green
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 32 and name George White
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 33 and name Hannah Black
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 34 and name Ian Gray
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 35 and name Julia Blue
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 36 and name Kevin King
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 37 and name Laura Queen
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 38 and name Martin Clark
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 39 and name Nina Adams
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 40 and name Oscar Lee
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 41 and name Paula Young
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 42 and name Quincy Allen
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 43 and name Rachel Walker
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 44 and name Steve Harris
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 45 and name Tracy Martin
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 46 and name Uma Nelson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 47 and name Victor Moore
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 48 and name Wendy Scott
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 49 and name Xander Bell
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 50 and name Yvonne Turner
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 51 and name Zachary Cooper
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 52 and name Aaron Price
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 53 and name Betty Foster
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 54 and name Caleb Simmons
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 55 and name Daisy Perry
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 56 and name Ethan Reed
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 57 and name Faith Bryant
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 58 and name Gavin Griffin
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 59 and name Hailey Burns
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 60 and name Isaac Murray
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 61 and name Jasmine Riley
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 62 and name Kyle Ramirez
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 63 and name Lily Edwards
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 64 and name Mason Peterson
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 65 and name Natalie Jenkins
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 66 and name Owen Ford
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 67 and name Peyton Ross
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 68 and name Quinn Morris
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 69 and name Ruby Price
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 70 and name Samuel Wood
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 71 and name Tina Coleman
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 72 and name Ulysses Scott
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 73 and name Violet Jenkins
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 74 and name William Ortiz
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 75 and name Xena Carter
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 76 and name Yusuf Brooks
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 77 and name Zoey Gray
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] Closed statement closed
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:08,468 INFO r.MemoryTourist [AWT-EventQueue-0] Closed connection
+2025-04-21 18:43:09,487 INFO s.MemoryTicketService [AWT-EventQueue-0] Finding all tickets
+2025-04-21 18:43:09,487 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1000 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1001 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1002 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1003 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1004 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1005 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1006 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1007 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1008 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1009 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1010 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1011 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1012 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1013 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1014 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1015 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1016 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1017 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1018 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1019 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1020 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1021 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1022 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1023 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1024 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1025 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1026 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1027 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1028 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1029 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1030 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1031 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1032 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1033 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1034 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1035 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1036 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1037 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1038 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1039 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1040 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1041 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1042 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1043 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1044 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1045 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1046 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1047 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1048 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1049 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1050 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 454163 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 768672 
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Result Set closed
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:09,487 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed
+2025-04-21 18:43:10,333 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 18:43:10,333 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 18:43:10,333 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:11,870 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 18:43:11,870 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 18:43:11,870 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 18:43:16,297 INFO s.MemoryTicketService [AWT-EventQueue-0] Creating ticket with id 524086, tourist=513, employee with the id 0,seat type=0, seat with the number=Economy,and the customer with the name=229
+2025-04-21 18:43:16,297 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:16,297 INFO r.MemoryTicket [AWT-EventQueue-0] Result Set closed
+2025-04-21 18:43:16,297 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:16,297 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed
+2025-04-21 18:43:16,297 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 18:43:16,314 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket added successfully
+2025-04-21 18:43:16,314 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 18:43:16,314 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed
+2025-04-21 18:43:16,314 INFO s.MemoryTicketService [AWT-EventQueue-0] Ticket created successfully
+2025-04-21 19:26:32,203 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 19:26:32,298 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 19:26:32,316 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 19:26:32,327 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 19:26:32,330 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 19:26:34,219 INFO s.MemoryEmployeeService [AWT-EventQueue-0] Service: Retrieving all employees
+2025-04-21 19:26:34,219 INFO r.MemoryEmployee [AWT-EventQueue-0] Find all employees
+2025-04-21 19:26:34,219 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:34,219 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1
+2025-04-21 19:26:34,219 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 4
+2025-04-21 19:26:34,219 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 5
+2025-04-21 19:26:34,219 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 6
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 7
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 9
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 10
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 11
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 12
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 13
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 14
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 15
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 16
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 100
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1002
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Found employee with id 1003
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing prepared statement
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing prepared statement
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Closing connection to database
+2025-04-21 19:26:34,231 INFO r.MemoryEmployee [AWT-EventQueue-0] Find all employees successfully
+2025-04-21 19:26:35,058 INFO s.MemoryFlightService [AWT-EventQueue-0] Finding all flights
+2025-04-21 19:26:35,074 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 100
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 101
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 102
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 103
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 104
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 105
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 106
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 107
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 108
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 109
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 110
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 111
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 112
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 113
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 114
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 115
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 116
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 117
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 118
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 119
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 120
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 121
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 122
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 123
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 124
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 125
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 126
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 127
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 128
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 129
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 130
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 131
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 132
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 133
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 134
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 135
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 136
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 137
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 138
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 139
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 140
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 141
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 142
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 143
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 144
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 145
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 146
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 147
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 148
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 149
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 150
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 151
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 152
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 153
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 154
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 155
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 156
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 157
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 158
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 159
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 160
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 161
+2025-04-21 19:26:35,074 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 162
+2025-04-21 19:26:35,089 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 163
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 164
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 165
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 166
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 167
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 168
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 169
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 170
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 171
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 172
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 173
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 174
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 175
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 176
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 177
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 178
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 179
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 180
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 181
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 182
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 183
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 184
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 185
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 186
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 187
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 188
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 189
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 190
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 191
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 192
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 193
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 194
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 195
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 196
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 197
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 198
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 199
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 200
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 201
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 202
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 203
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 204
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 205
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 206
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 207
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 208
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 209
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 210
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 211
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 212
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 213
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 214
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 215
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 216
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 217
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 218
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 219
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 220
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 221
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 222
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 223
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 224
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 225
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 226
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 227
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 228
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 229
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 230
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 231
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 232
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 233
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 234
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 235
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 236
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 237
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 238
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 239
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 240
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 241
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 242
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 243
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 244
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 245
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 246
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 247
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 248
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Flight found successfully by id 249
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] ResultSet closed
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 19:26:35,090 INFO r.MemoryFlight [AWT-EventQueue-0] Connection closed
+2025-04-21 19:26:35,886 INFO s.MemoryFlightCompanyService [AWT-EventQueue-0] Finding all flight companies
+2025-04-21 19:26:35,886 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 1 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 2 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 3 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 4 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 5 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 6 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 7 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 8 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 9 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 10 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 11 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 12 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 13 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 14 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 15 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 16 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 17 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 18 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 19 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 20 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 21 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 22 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 23 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 24 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 25 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 26 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 27 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 28 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 29 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 30 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 31 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 32 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 33 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 34 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 35 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 36 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 37 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 38 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 39 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 40 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 41 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 42 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 43 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 44 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 45 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 46 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 47 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 48 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 49 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Found flight company with 50 
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] ResultSet closed
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 19:26:35,902 INFO r.MemoryFlightCompany [AWT-EventQueue-0] Closed connection
+2025-04-21 19:26:36,622 INFO s.MemoryTicketService [AWT-EventQueue-0] Finding all tickets
+2025-04-21 19:26:36,622 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:36,622 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1000 
+2025-04-21 19:26:36,622 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1001 
+2025-04-21 19:26:36,622 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1002 
+2025-04-21 19:26:36,622 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1003 
+2025-04-21 19:26:36,622 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1004 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1005 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1006 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1007 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1008 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1009 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1010 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1011 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1012 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1013 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1014 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1015 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1016 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1017 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1018 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1019 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1020 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1021 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1022 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1023 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1024 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1025 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1026 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1027 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1028 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1029 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1030 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1031 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1032 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1033 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1034 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1035 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1036 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1037 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1038 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1039 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1040 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1041 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1042 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1043 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1044 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1045 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1046 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1047 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1048 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1049 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1050 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 454163 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 524086 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 768672 
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Result Set closed
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 19:26:36,636 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed
+2025-04-21 19:26:37,387 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 19:26:37,387 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 19:26:37,402 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 19:26:38,074 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 19:26:38,077 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 19:26:38,079 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 19:26:38,849 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-21 19:26:38,849 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-21 19:26:38,849 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed
+2025-04-21 19:26:39,645 INFO s.MemoryTravelAgencyService [AWT-EventQueue-0] Find all TravelAgencies
+2025-04-21 19:26:39,645 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 1
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 2
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 3
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 4
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 5
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 6
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 7
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 8
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 9
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 10
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 11
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 12
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 13
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 14
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 15
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 16
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 17
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 18
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 19
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 20
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 21
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 22
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 23
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 24
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 25
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 26
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 27
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 28
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 29
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 30
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 31
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 32
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 33
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 34
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 35
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 36
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 37
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 38
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 39
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 40
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 41
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 42
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 43
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 44
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 45
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 46
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 47
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 48
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 49
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 50
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Travel Agency Found with id 51
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Result Set Closed
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Prepared Statement Closed
+2025-04-21 19:26:39,645 INFO r.MemoryTravelAgency [AWT-EventQueue-0] Connection Closed
+2025-04-21 19:26:40,586 INFO s.MemoryTouristService [AWT-EventQueue-0] Finding all tourists
+2025-04-21 19:26:40,586 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:40,586 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 1 and name John Doe
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 2 and name Jane Doe
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 3 and name Michael Lee
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 4 and name Sarah Kim
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 5 and name David Park
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 6 and name Emily Chen
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 7 and name Robert Clark
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 8 and name Lisa Thompson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 9 and name James Brown
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 10 and name Elizabeth White
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 11 and name Steven Johnson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 12 and name Laura Davis
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 13 and name Kevin Garcia
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 14 and name Olivia Martinez
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 15 and name Daniel Wilson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 16 and name Emma Robinson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 17 and name Mark Lewis
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 18 and name Sophia Young
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 19 and name Ryan Walker
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 20 and name Chloe Baker
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 21 and name Grace Adams
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 22 and name Liam Reynolds
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 23 and name Mason Turner
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 24 and name Hailey Brooks
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 25 and name Zoe Martin
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 26 and name Alice Brown
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 27 and name Bob Smith
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 28 and name Charlie Johnson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 29 and name Diana Prince
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 30 and name Evan Davis
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 31 and name Fiona Green
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 32 and name George White
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 33 and name Hannah Black
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 34 and name Ian Gray
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 35 and name Julia Blue
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 36 and name Kevin King
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 37 and name Laura Queen
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 38 and name Martin Clark
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 39 and name Nina Adams
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 40 and name Oscar Lee
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 41 and name Paula Young
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 42 and name Quincy Allen
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 43 and name Rachel Walker
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 44 and name Steve Harris
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 45 and name Tracy Martin
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 46 and name Uma Nelson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 47 and name Victor Moore
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 48 and name Wendy Scott
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 49 and name Xander Bell
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 50 and name Yvonne Turner
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 51 and name Zachary Cooper
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 52 and name Aaron Price
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 53 and name Betty Foster
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 54 and name Caleb Simmons
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 55 and name Daisy Perry
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 56 and name Ethan Reed
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 57 and name Faith Bryant
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 58 and name Gavin Griffin
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 59 and name Hailey Burns
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 60 and name Isaac Murray
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 61 and name Jasmine Riley
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 62 and name Kyle Ramirez
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 63 and name Lily Edwards
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 64 and name Mason Peterson
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 65 and name Natalie Jenkins
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 66 and name Owen Ford
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 67 and name Peyton Ross
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 68 and name Quinn Morris
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 69 and name Ruby Price
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 70 and name Samuel Wood
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 71 and name Tina Coleman
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 72 and name Ulysses Scott
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 73 and name Violet Jenkins
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 74 and name William Ortiz
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 75 and name Xena Carter
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 76 and name Yusuf Brooks
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] All the tourists found with id 77 and name Zoey Gray
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] Closed statement closed
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 19:26:40,602 INFO r.MemoryTourist [AWT-EventQueue-0] Closed connection
+2025-04-21 19:26:41,684 INFO s.MemoryTicketService [AWT-EventQueue-0] Finding all tickets
+2025-04-21 19:26:41,684 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1000 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1001 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1002 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1003 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1004 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1005 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1006 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1007 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1008 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1009 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1010 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1011 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1012 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1013 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1014 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1015 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1016 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1017 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1018 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1019 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1020 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1021 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1022 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1023 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1024 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1025 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1026 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1027 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1028 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1029 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1030 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1031 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1032 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1033 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1034 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1035 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1036 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1037 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1038 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1039 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1040 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1041 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1042 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1043 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1044 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1045 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1046 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1047 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1048 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1049 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 1050 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 454163 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 524086 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Ticket found successfully by 768672 
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Result Set closed
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Prepared statement closed
+2025-04-21 19:26:41,684 INFO r.MemoryTicket [AWT-EventQueue-0] Connection closed

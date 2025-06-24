@@ -10,3 +10,4 @@ public interface InterfaceRepository<ID, E> {
     E update(E entity);
     E delete(ID id);
 }
+

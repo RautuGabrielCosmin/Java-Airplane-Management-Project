@@ -9,7 +9,6 @@ public class Tourist implements IdTourist<Integer>, Serializable {
 
     private int id;
     private String name;
-    // Potentially add passport, phone, etc.
 
     public Tourist() {
     }

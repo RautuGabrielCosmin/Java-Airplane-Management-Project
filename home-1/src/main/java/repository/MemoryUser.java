@@ -1,12 +1,14 @@
 package repository;
 
-import desktop_app.user.User;
+import domain.User;
 
 import java.sql.*;
 import java.util.ArrayList;
 import java.util.List;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
+
+import static org.apache.commons.dbcp2.Utils.closeQuietly;
 
 @SuppressWarnings("CallToPrintStackTrace")
 public class MemoryUser implements UserRepository {
@@ -51,56 +53,95 @@ public class MemoryUser implements UserRepository {
         return user;
     }
 
-    public User findById(Integer id){
-        User user = new User();
+    //    public User findById(Integer id){
+//        User user = new User();
+//        Connection con = null;
+//        PreparedStatement ps = null;
+//        ResultSet rs = null;
+//        try{
+//            con = new ConnectDB().getConnection();
+//            String sql = "SELECT * FROM user WHERE id = ?";
+//            ps = con.prepareStatement(sql);
+//            ps.setInt(1, id);
+//            rs = ps.executeQuery();
+//            if(rs.next()){
+//                user = new User();
+//                user.setUsername(rs.getString("username"));
+//                user.setPassword(rs.getString("password"));
+//                logger.info("User found with id " + id);
+//            }
+//        }catch (SQLException e){
+//            logger.debug(e.getMessage());
+//            e.printStackTrace();
+//        }finally{
+//            if(rs != null) {
+//                try{
+//                    rs.close();
+//                    logger.info("ResultSet Closed");
+//                }catch(SQLException e){
+//                    logger.debug(e.getMessage());
+//                    e.printStackTrace();
+//                }
+//            }
+//            if(ps != null) {
+//                try{
+//                    ps.close();
+//                    logger.info("PreparedStatement Closed");
+//                }catch(SQLException e){
+//                    logger.debug(e.getMessage());
+//                    e.printStackTrace();
+//                }
+//            }
+//            if(con != null) {
+//                try{
+//                    con.close();
+//                    logger.info("Connection Closed");
+//                }catch(SQLException e){
+//                    logger.debug(e.getMessage());
+//                    e.printStackTrace();
+//                }
+//            }
+//        }
+//        return user;
+//    } INLOCUIT CU CEL DE JOS PLUA MEA
+    public User findById(Integer id) {
+        User user = null;  // Start with null
         Connection con = null;
         PreparedStatement ps = null;
         ResultSet rs = null;
-        try{
+        try {
             con = new ConnectDB().getConnection();
             String sql = "SELECT * FROM user WHERE id = ?";
             ps = con.prepareStatement(sql);
+            ps.setInt(1, id);
             rs = ps.executeQuery();
             if(rs.next()){
                 user = new User();
+                // It’s also a good idea to set the id from the DB:
+                user.setId(rs.getInt("id"));
                 user.setUsername(rs.getString("username"));
                 user.setPassword(rs.getString("password"));
-                logger.info("User found with id " + id);
+                logger.info("User found with id {}", id);
+            } else {
+                logger.info("No user found with id {}", id);
             }
-        }catch (SQLException e){
-            logger.debug(e.getMessage());
+        } catch (SQLException e) {
+            logger.debug("Error finding user with id {}: {}", id, e.getMessage());
             e.printStackTrace();
-        }finally{
+        } finally {
             if(rs != null) {
-                try{
-                    rs.close();
-                    logger.info("ResultSet Closed");
-                }catch(SQLException e){
-                    logger.debug(e.getMessage());
-                    e.printStackTrace();
-                }
+                try { rs.close(); } catch(SQLException e) { e.printStackTrace(); }
             }
             if(ps != null) {
-                try{
-                    ps.close();
-                    logger.info("PreparedStatement Closed");
-                }catch(SQLException e){
-                    logger.debug(e.getMessage());
-                    e.printStackTrace();
-                }
+                try { ps.close(); } catch(SQLException e) { e.printStackTrace(); }
             }
             if(con != null) {
-                try{
-                    con.close();
-                    logger.info("Connection Closed");
-                }catch(SQLException e){
-                    logger.debug(e.getMessage());
-                    e.printStackTrace();
-                }
+                try { con.close(); } catch(SQLException e) { e.printStackTrace(); }
             }
         }
         return user;
     }
+
 
     public List<User> findAll(){
         List<User> listOfUsers = new ArrayList<>();
@@ -193,6 +234,8 @@ public class MemoryUser implements UserRepository {
         }
         return user;
     }
+
+
 
     public User update(User user){
         Connection con = null;

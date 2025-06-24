@@ -1,7 +1,5 @@
 package repository;
 
-//import org.sqlite.util.Logger;
-//import org.sqlite.util.LoggerFactory;
 
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

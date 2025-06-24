@@ -1,0 +1,172 @@
+2025-03-19 06:17:14,049 INFO repository.MemoryEmployee [main] Saving employee with id 16
+2025-03-19 06:17:14,333 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,345 INFO repository.MemoryEmployee [main] Employee added successfully 16
+2025-03-19 06:17:14,346 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,347 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,347 INFO repository.MemoryEmployee [main] Saving employee with id 2
+2025-03-19 06:17:14,348 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,353 INFO repository.MemoryEmployee [main] Employee added successfully 2
+2025-03-19 06:17:14,353 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,353 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,354 INFO repository.MemoryEmployee [main] Saving employee with id 3
+2025-03-19 06:17:14,355 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,360 INFO repository.MemoryEmployee [main] Employee added successfully 3
+2025-03-19 06:17:14,361 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,361 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,361 INFO repository.MemoryEmployee [main] Find all employees
+2025-03-19 06:17:14,364 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,367 INFO repository.MemoryEmployee [main] Found employee with id 1
+2025-03-19 06:17:14,368 INFO repository.MemoryEmployee [main] Found employee with id 2
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 3
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 4
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 5
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 6
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 7
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 8
+2025-03-19 06:17:14,369 INFO repository.MemoryEmployee [main] Found employee with id 9
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 10
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 11
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 12
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 13
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 14
+2025-03-19 06:17:14,370 INFO repository.MemoryEmployee [main] Found employee with id 15
+2025-03-19 06:17:14,371 INFO repository.MemoryEmployee [main] Found employee with id 16
+2025-03-19 06:17:14,371 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,371 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,371 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,371 INFO repository.MemoryEmployee [main] Find all employees successfully
+2025-03-19 06:17:14,375 INFO repository.MemoryEmployee [main] Find employee by id 1
+2025-03-19 06:17:14,377 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,378 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,378 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,378 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,379 INFO repository.MemoryEmployee [main] Updating employee with id 16
+2025-03-19 06:17:14,380 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,385 INFO repository.MemoryEmployee [main] Employee updated successfully 16
+2025-03-19 06:17:14,386 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,386 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,386 INFO repository.MemoryEmployee [main] Find employee by id 1
+2025-03-19 06:17:14,387 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,388 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,388 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,388 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,389 INFO repository.MemoryEmployee [main] Find employee by id 3
+2025-03-19 06:17:14,390 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,390 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,391 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,391 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,391 INFO repository.MemoryEmployee [main] No employee with id 3
+2025-03-19 06:17:14,391 INFO repository.MemoryEmployee [main] Find all employees
+2025-03-19 06:17:14,393 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,394 INFO repository.MemoryEmployee [main] Found employee with id 1
+2025-03-19 06:17:14,394 INFO repository.MemoryEmployee [main] Found employee with id 2
+2025-03-19 06:17:14,394 INFO repository.MemoryEmployee [main] Found employee with id 3
+2025-03-19 06:17:14,394 INFO repository.MemoryEmployee [main] Found employee with id 4
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 5
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 6
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 7
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 8
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 9
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 10
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 11
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 12
+2025-03-19 06:17:14,395 INFO repository.MemoryEmployee [main] Found employee with id 13
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Found employee with id 14
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Found employee with id 15
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Found employee with id 16
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,396 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,397 INFO repository.MemoryEmployee [main] Find all employees successfully
+2025-03-19 06:17:14,397 INFO service.MemoryEmployeeService [main] Creating employee with id=1 and name=Alice
+2025-03-19 06:17:14,397 INFO repository.MemoryEmployee [main] Find employee by id 1
+2025-03-19 06:17:14,399 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,400 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,400 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,401 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,401 INFO repository.MemoryEmployee [main] Saving employee with id 1
+2025-03-19 06:17:14,402 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,407 INFO repository.MemoryEmployee [main] Employee added successfully 1
+2025-03-19 06:17:14,408 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,408 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,408 INFO service.MemoryEmployeeService [main] Employee created successfully: Employee{id=1, name='Alice'}
+2025-03-19 06:17:14,408 INFO service.MemoryEmployeeService [main] Creating employee with id=2 and name=Bob
+2025-03-19 06:17:14,408 INFO repository.MemoryEmployee [main] Find employee by id 2
+2025-03-19 06:17:14,410 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,410 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,411 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,411 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,411 INFO repository.MemoryEmployee [main] Saving employee with id 2
+2025-03-19 06:17:14,412 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,418 INFO repository.MemoryEmployee [main] Employee added successfully 2
+2025-03-19 06:17:14,418 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,418 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,419 INFO service.MemoryEmployeeService [main] Employee created successfully: Employee{id=2, name='Bob'}
+2025-03-19 06:17:14,419 INFO service.MemoryEmployeeService [main] Service: Looking for employee with id=1
+2025-03-19 06:17:14,419 INFO repository.MemoryEmployee [main] Find employee by id 1
+2025-03-19 06:17:14,420 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,421 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,421 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,421 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,421 WARN service.MemoryEmployeeService [main] No employee found with id=1
+2025-03-19 06:17:14,422 INFO service.MemoryEmployeeService [main] Service: Updating employee with id=1 to have name=Alice Johnson
+2025-03-19 06:17:14,422 INFO repository.MemoryEmployee [main] Find employee by id 1
+2025-03-19 06:17:14,423 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,424 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,424 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,424 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,425 WARN service.MemoryEmployeeService [main] Cannot update - no employee found with id=1
+2025-03-19 06:17:14,425 INFO service.MemoryEmployeeService [main] Service: Retrieving all employees
+2025-03-19 06:17:14,425 INFO repository.MemoryEmployee [main] Find all employees
+2025-03-19 06:17:14,426 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 1
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 2
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 3
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 4
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 5
+2025-03-19 06:17:14,427 INFO repository.MemoryEmployee [main] Found employee with id 6
+2025-03-19 06:17:14,428 INFO repository.MemoryEmployee [main] Found employee with id 7
+2025-03-19 06:17:14,428 INFO repository.MemoryEmployee [main] Found employee with id 8
+2025-03-19 06:17:14,429 INFO repository.MemoryEmployee [main] Found employee with id 9
+2025-03-19 06:17:14,429 INFO repository.MemoryEmployee [main] Found employee with id 10
+2025-03-19 06:17:14,429 INFO repository.MemoryEmployee [main] Found employee with id 11
+2025-03-19 06:17:14,429 INFO repository.MemoryEmployee [main] Found employee with id 12
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Found employee with id 13
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Found employee with id 14
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Found employee with id 15
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Found employee with id 16
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,430 INFO repository.MemoryEmployee [main] Find all employees successfully
+2025-03-19 06:17:14,431 INFO service.MemoryEmployeeService [main] Service: Deleting employee with id=2
+2025-03-19 06:17:14,431 INFO repository.MemoryEmployee [main] Find employee by id 2
+2025-03-19 06:17:14,432 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,433 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,433 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,433 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,434 INFO repository.MemoryEmployee [main] No employee with id 2
+2025-03-19 06:17:14,434 WARN service.MemoryEmployeeService [main] No employee found for deletion with id=2
+2025-03-19 06:17:14,434 INFO service.MemoryEmployeeService [main] Service: Retrieving all employees
+2025-03-19 06:17:14,434 INFO repository.MemoryEmployee [main] Find all employees
+2025-03-19 06:17:14,435 INFO repository.ConnectDB [main] Connected to the database
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 1
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 2
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 3
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 4
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 5
+2025-03-19 06:17:14,436 INFO repository.MemoryEmployee [main] Found employee with id 6
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 7
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 8
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 9
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 10
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 11
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 12
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 13
+2025-03-19 06:17:14,437 INFO repository.MemoryEmployee [main] Found employee with id 14
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Found employee with id 15
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Found employee with id 16
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Closing prepared statement
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Closing connection to database
+2025-03-19 06:17:14,438 INFO repository.MemoryEmployee [main] Find all employees successfully

@@ -1,0 +1,57 @@
+2025-04-13 07:10:13,110 INFO s.MemoryUserService [AWT-EventQueue-0] Finding all users
+2025-04-13 07:10:13,377 INFO r.ConnectDB [AWT-EventQueue-0] Connected to the database
+2025-04-13 07:10:13,404 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 0
+2025-04-13 07:10:13,404 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 1
+2025-04-13 07:10:13,405 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 201
+2025-04-13 07:10:13,405 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 202
+2025-04-13 07:10:13,406 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 203
+2025-04-13 07:10:13,407 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 204
+2025-04-13 07:10:13,407 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 205
+2025-04-13 07:10:13,407 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 206
+2025-04-13 07:10:13,407 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 207
+2025-04-13 07:10:13,407 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 208
+2025-04-13 07:10:13,408 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 209
+2025-04-13 07:10:13,408 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 210
+2025-04-13 07:10:13,408 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 211
+2025-04-13 07:10:13,408 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 212
+2025-04-13 07:10:13,408 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 213
+2025-04-13 07:10:13,409 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 214
+2025-04-13 07:10:13,409 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 215
+2025-04-13 07:10:13,409 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 216
+2025-04-13 07:10:13,409 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 217
+2025-04-13 07:10:13,409 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 218
+2025-04-13 07:10:13,410 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 219
+2025-04-13 07:10:13,410 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 220
+2025-04-13 07:10:13,411 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 221
+2025-04-13 07:10:13,411 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 222
+2025-04-13 07:10:13,411 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 223
+2025-04-13 07:10:13,412 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 224
+2025-04-13 07:10:13,412 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 225
+2025-04-13 07:10:13,412 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 226
+2025-04-13 07:10:13,413 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 227
+2025-04-13 07:10:13,413 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 228
+2025-04-13 07:10:13,413 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 229
+2025-04-13 07:10:13,413 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 230
+2025-04-13 07:10:13,414 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 231
+2025-04-13 07:10:13,414 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 232
+2025-04-13 07:10:13,414 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 233
+2025-04-13 07:10:13,415 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 234
+2025-04-13 07:10:13,415 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 235
+2025-04-13 07:10:13,415 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 236
+2025-04-13 07:10:13,415 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 237
+2025-04-13 07:10:13,415 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 238
+2025-04-13 07:10:13,416 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 239
+2025-04-13 07:10:13,416 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 240
+2025-04-13 07:10:13,416 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 241
+2025-04-13 07:10:13,416 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 242
+2025-04-13 07:10:13,417 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 243
+2025-04-13 07:10:13,417 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 244
+2025-04-13 07:10:13,417 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 245
+2025-04-13 07:10:13,417 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 246
+2025-04-13 07:10:13,417 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 247
+2025-04-13 07:10:13,418 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 248
+2025-04-13 07:10:13,418 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 249
+2025-04-13 07:10:13,418 INFO r.MemoryUser [AWT-EventQueue-0] User found with id 250
+2025-04-13 07:10:13,419 INFO r.MemoryUser [AWT-EventQueue-0] ResultSet Closed
+2025-04-13 07:10:13,419 INFO r.MemoryUser [AWT-EventQueue-0] PreparedStatement Closed
+2025-04-13 07:10:13,420 INFO r.MemoryUser [AWT-EventQueue-0] Connection Closed

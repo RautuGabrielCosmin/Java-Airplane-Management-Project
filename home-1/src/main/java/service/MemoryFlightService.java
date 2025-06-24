@@ -95,7 +95,7 @@ public class MemoryFlightService implements FlightService {
                                       String newDateDeparture, String newDateArrival, int newNumberOfSeats,
                                       int newFlightCompanyId) {
         logger.info("Updating flight with id {}, new location departure {}, new location arrival {}, " +
-                "new date departure {}, new date arrival {}, new number of seats {}, new flight company id {}"
+                        "new date departure {}, new date arrival {}, new number of seats {}, new flight company id {}"
                 , id, newLocationDeparture, newLocationArrival, newDateDeparture, newDateArrival, newNumberOfSeats,
                 newFlightCompanyId);
         Flight flight = flightRepository.findById(id);
@@ -121,6 +121,7 @@ public class MemoryFlightService implements FlightService {
             logger.error("Flight with id={} not found", id);
         }else{
             logger.info("Deleting flight with id={}", id);
+            flightRepository.delete(id);
         }
         return flight;
     }

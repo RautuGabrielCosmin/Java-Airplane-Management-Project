@@ -12,7 +12,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 @SuppressWarnings("CallToPrintStackTrace")
-public class MemoryFlightCompany extends FlightCompany {
+public class MemoryFlightCompany extends FlightCompany implements FlightCompanyRepository {
     private final static Logger logger = LoggerFactory.getLogger(MemoryFlightCompany.class);
 
     public FlightCompany add(Integer id){

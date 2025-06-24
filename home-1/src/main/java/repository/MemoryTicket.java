@@ -16,7 +16,6 @@ public class MemoryTicket implements TicketRepository {
         ticket.setId(id);
         Connection conn = null;
         PreparedStatement ps = null;
-        ResultSet rs = null;
         try{
             conn = new ConnectDB().getConnection();
             String sql = "INSERT INTO ticket (id, flight_id, tourist_id, employee_id, seat_type" +
@@ -67,17 +66,17 @@ public class MemoryTicket implements TicketRepository {
             conn = new ConnectDB().getConnection();
             String sql = "SELECT * FROM ticket WHERE id = ?";
             ps = conn.prepareStatement(sql);
-            rs = ps.executeQuery();
             ps.setInt(1, id);
+            rs = ps.executeQuery();
             if(rs.next()){
                 ticket = new Ticket();
-                ticket.setId(id);
-                ticket.setFlightId(rs.getInt("flightId"));
-                ticket.setTouristId(rs.getInt("touristId"));
-                ticket.setEmployeeId(rs.getInt("employeeId"));
-                ticket.setSeatType(rs.getString("seatType"));
-                ticket.setSeatNumber(rs.getString("seatNumber"));
-                ticket.setCustomerName(rs.getString("customerName"));
+                ticket.setId(rs.getInt("id"));
+                ticket.setFlightId(rs.getInt("flight_id"));
+                ticket.setTouristId(rs.getInt("tourist_id"));
+                ticket.setEmployeeId(rs.getInt("employee_id"));
+                ticket.setSeatType(rs.getString("seat_type"));
+                ticket.setSeatNumber(rs.getString("seat_Number"));
+                ticket.setCustomerName(rs.getString("customer_name"));
                 logger.info("Ticket found successfully by {} ", id);
             }
         }catch (SQLException e) {
@@ -127,12 +126,12 @@ public class MemoryTicket implements TicketRepository {
             while(rs.next()){
                 Ticket ticket = new Ticket();
                 ticket.setId(rs.getInt("id"));
-                ticket.setFlightId(rs.getInt("flightId"));
-                ticket.setTouristId(rs.getInt("touristId"));
-                ticket.setEmployeeId(rs.getInt("employeeId"));
-                ticket.setSeatType(rs.getString("seatType"));
-                ticket.setSeatNumber(rs.getString("seatNumber"));
-                ticket.setCustomerName(rs.getString("customerName"));
+                ticket.setFlightId(rs.getInt("flight_id"));
+                ticket.setTouristId(rs.getInt("tourist_id"));
+                ticket.setEmployeeId(rs.getInt("employee_id"));
+                ticket.setSeatType(rs.getString("seat_type"));
+                ticket.setSeatNumber(rs.getString("seat_number"));
+                ticket.setCustomerName(rs.getString("customer_name"));
                 listOfTickets.add(ticket);
                 logger.info("Ticket found successfully by {} ", rs.getInt("id"));
             }

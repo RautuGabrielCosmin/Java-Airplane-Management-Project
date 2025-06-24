@@ -68,17 +68,17 @@ public class MemoryFlight implements FlightRepository {
             connection = new ConnectDB().getConnection();
             String sql = "SELECT * FROM flight WHERE id = ?";
             preparedStatement = connection.prepareStatement(sql);
-            resultSet = preparedStatement.executeQuery();
             preparedStatement.setInt(1,id);
+            resultSet = preparedStatement.executeQuery();
             if(resultSet.next()){
                 flight = new Flight();
                 flight.setId(resultSet.getInt("id"));
-                flight.setLocationDeparture(resultSet.getString("locationDeparture"));
-                flight.setLocationArrival(resultSet.getString("locationArrival"));
-                flight.setDateDeparture(resultSet.getString("dateDeparture"));
-                flight.setDateArrival(resultSet.getString("dateArrival"));
-                flight.setNumberOfSeats(resultSet.getInt("numberOfSeats"));
-                flight.setFlightCompanyId(resultSet.getInt("flightCompanyId"));
+                flight.setLocationDeparture(resultSet.getString("location_departure"));
+                flight.setLocationArrival(resultSet.getString("location_arrival"));
+                flight.setDateDeparture(resultSet.getString("date_departure"));
+                flight.setDateArrival(resultSet.getString("date_arrival"));
+                flight.setNumberOfSeats(resultSet.getInt("number_of_seats"));
+                flight.setFlightCompanyId(resultSet.getInt("flight_company_id"));
                 logger.info("Flight found successfully by id {}", id);
             }
         }catch (SQLException e){
@@ -129,12 +129,12 @@ public class MemoryFlight implements FlightRepository {
             while(resultSet.next()) {
                 Flight flight = new Flight();
                 flight.setId(resultSet.getInt("id"));
-                flight.setLocationDeparture(resultSet.getString("locationDeparture"));
-                flight.setLocationArrival(resultSet.getString("locationArrival"));
-                flight.setDateDeparture(resultSet.getString("dateDeparture"));
-                flight.setDateArrival(resultSet.getString("dateArrival"));
-                flight.setNumberOfSeats(resultSet.getInt("numberOfSeats"));
-                flight.setFlightCompanyId(resultSet.getInt("flightCompanyId"));
+                flight.setLocationDeparture(resultSet.getString("location_departure"));
+                flight.setLocationArrival(resultSet.getString("location_arrival"));
+                flight.setDateDeparture(resultSet.getString("date_departure"));
+                flight.setDateArrival(resultSet.getString("date_arrival"));
+                flight.setNumberOfSeats(resultSet.getInt("number_of_seats"));
+                flight.setFlightCompanyId(resultSet.getInt("flight_company_id"));
                 flights.add(flight);
                 logger.info("Flight found successfully by id {}", flight.getId());
             }
