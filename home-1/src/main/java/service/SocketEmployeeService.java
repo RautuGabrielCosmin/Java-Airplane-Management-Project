@@ -14,7 +14,7 @@ import java.util.List;
  * EmployeeService implementation that routes all calls over TCP→JSON‐RPC
  * to the server listening on localhost:5000.
  */
-public class    SocketEmployeeService implements EmployeeService {
+public class SocketEmployeeService implements EmployeeService {
     private static final ObjectMapper M = new ObjectMapper();
     static {
         try {
